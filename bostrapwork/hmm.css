@@ -1,0 +1,101 @@
+
+body{
+font-family: 'Dosis', sans-serif;
+}
+
+a:hover{
+	text-decoration:none;
+}
+.section{
+	padding-top:70px;
+	padding-bottom:70px;
+}
+.section .section-head{
+	text-align:center;
+	margin-bottom:40px;
+	color:#000;
+}
+.section h2.section-head:after{
+	background:#e74c3c;
+	content:"";
+	margin:20px auto;
+	height:3px;
+	width:100px;
+}
+
+#header{
+	background:#e74c3c;
+	color:#fff;
+	height:12
+	0px;
+}
+#logo{
+	font-size:2rem;
+	margin:5px;
+}
+#menu{
+	float: left;
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+#menu li {
+	display: inline-block;
+}
+#menu li a {
+	color:#fff;
+	display:block;
+	padding:0px 10px 0px 10px;
+	margin:5px;
+}
+#menu li a:hover{
+	background:#c0392d;
+}
+#banner{
+	background-image:url(img.jpg);
+	background-size:cover;
+}
+.banner-tittle h2{
+	background:rgba(255,255,255,0.8);
+	display:inline-block;
+	padding:10px;
+	margin:auto;
+}
+.banner-tittle p.lead {
+	color:#fff;
+	background:rgba(231,76,60,0.7);
+}
+.banner-tittle{
+	padding-top:5rem;
+}
+.service-box{
+	text-align: center;
+}
+.service-box i.fas{
+	color:#e74c3c;
+	font-size:70px;
+	margin-bottom:15px;
+}
+.service-box i.fa{
+	color:#e74c3c;
+	font-size:70px;
+	margin-bottom:15px;
+}
+.testimonials{
+	text-align: center;
+}
+#testimonials{
+	background-image: url(rana.jpg);
+}
+.post-date{
+	 content:"\f784";
+	 font-family:fontawesome-free-5;
+	 padding:10px;
+}
+#fotter-sidebarr{
+	color:#CAD3C8;
+	background-color:#2C3A47;
+}
+.footer{
+	background-color:#dfe6e9;
+}
