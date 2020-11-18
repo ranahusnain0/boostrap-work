@@ -1,0 +1,98 @@
+body div {
+	font-family: 'Dosis', sans-serif;
+}
+
+.section{
+	padding-top:70px;
+	padding-bottom:70px;
+}
+.section .section-head{
+	text-align:center;
+	margin-bottom:40px;
+	color:#000;
+}
+.section h2.section-head:after{
+	background:#e74c3c;
+	content:"";
+	margin:20px auto;
+	height:3px;
+	width:100px;
+}
+#header{
+	background-color:#e74c3c;
+	color:#fff;
+	
+}
+#logo{
+	font-size:2rem;
+}
+.menu li {
+	display:inline-block;
+
+}
+.menu li a {
+	padding: 0px 15px 0px 15px;
+	color:#fff;
+}
+.menu li a:hover{
+	background:#c0392d;
+	
+}
+.hehe{
+	padding-top:25px;
+	background-color:#fff;
+	display: inline-block;
+}
+.sex{
+	padding-top:50px;
+}
+.me{
+	background-color:#e74c3c;
+}
+#banner{
+	background-image:url(img.jpg);
+}
+#contact {
+	
+	text-align:center;
+	padding-bottom:30px;
+}
+.section{
+	text-align: center;
+}
+ .service-box i.fas {
+	color:#e74c3c;
+}
+.service-box i.fa{
+	color:#e74c3c;
+}
+.haha{
+	padding-bottom:70px;
+}
+.fuck{
+	text-align: center;
+	background-image: url(yaya.jpg);
+}
+.hmm{
+	padding-top:20px;
+	padding-bottom:30px;
+}
+#waji{
+	padding-bottom:50px;
+	padding-top:20px;
+}
+.yum{
+	text-align: center;
+	text-decoration-line:none;
+}
+.hate{
+	background-color:#2C3b47;
+	padding-top:50px;
+	color:#fff;
+}
+#hug{
+	padding-top:20px;
+}
+#ulii{
+	padding-bottom:20px;
+}
