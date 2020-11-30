@@ -1,0 +1,54 @@
+body div {
+	font-family: 'Dosis', sans-serif;
+}
+
+
+#ime{
+	padding-top:20px;
+}
+#me{
+	padding-bottom:20px;
+	padding-top:30px;
+	background-color:#dfe6e9;
+	width:60%;
+	text-align: center;
+}
+
+#cse{
+	padding-top:20px;
+	padding-bottom:30px;
+	background-color:#17a2b8;
+	width:60%;
+	text-align: center;
+}
+#haha{
+	padding-top:20px;
+}
+#meh{
+	background-color:#dfe6e9;
+	width:60%;
+	padding-top:30px;
+	padding-bottom:40px;
+	text-align: center;
+}
+#boy{
+	padding-top:20px;
+}
+#no{
+	padding-left:50px;
+	text-align: center;
+}
+#noo{
+	padding-top:30px;
+	height:30vh;
+	width:60%;
+	padding-left:20px;
+}
+#footer{
+	background-color:#636e72;
+	text-align: center;
+	padding-top:30px;
+}
+#last{
+	padding-top:30px;
+}
