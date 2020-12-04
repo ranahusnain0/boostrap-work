@@ -1,54 +1,146 @@
 body div {
 	font-family: 'Dosis', sans-serif;
 }
-
-
-#ime{
-	padding-top:20px;
+#hus li {
+	display: inline-block;
+	padding:0px 20px 0px 15px;
 }
-#me{
-	padding-bottom:20px;
-	padding-top:30px;
-	background-color:#dfe6e9;
-	width:60%;
-	text-align: center;
+#you{
+	background-color:black;
+	color:white;
 }
-
-#cse{
-	padding-top:20px;
-	padding-bottom:30px;
-	background-color:#17a2b8;
-	width:60%;
-	text-align: center;
+#hus li a {
+	color:white;
 }
-#haha{
-	padding-top:20px;
+#joo{
+	background-color: black;
+	color:white;
 }
-#meh{
-	background-color:#dfe6e9;
-	width:60%;
+#nich{
 	padding-top:30px;
 	padding-bottom:40px;
-	text-align: center;
-}
-#boy{
-	padding-top:20px;
-}
-#no{
-	padding-left:50px;
-	text-align: center;
-}
-#noo{
-	padding-top:30px;
-	height:30vh;
-	width:60%;
 	padding-left:20px;
 }
-#footer{
-	background-color:#636e72;
+#nich h4 i {
+padding-left:10px;
+}
+#hus li a:hover{
+	background-color:white;
+	color:lightgray;
+}
+#click{
 	text-align: center;
+	padding-top:40px;
+	padding-bottom:50px;
+}
+#btn{
+	background-color: #636e72;
+}
+#hmm{
 	padding-top:30px;
+	padding-bottom:40px;
+}
+#brand{
+	padding:10px 40px 10px 20px;
+	color:#636e72;
+}
+#box{
+	color:#fab1a0;
+}
+#manak{
+	padding-bottom:20px;
+	padding-top:30px;
+	padding-right:20px;
+}
+#rana{
+	padding-top:40px;
+	padding-left:40px;
+	color:#fff;
+}
+#teach{
+	background-image: url(img.jpg);
+	height:80vh;
+	color:#2d3436;
+}
+#rana1{
+background-color: #EAB543;
+}
+.old{
+	background-color:#2C3A47;
+	color:white;
+	padding-top:20px;
+}
+#zem{
+	padding-bottom:20px;
+	padding-top:30px;
+	list-style: none;
+}
+#space{
+	padding-top:30px;
+	padding-bottom:40px;
+}
+#second{
+	padding-top:30px;
+	padding-bottom:20px;
+}
+#hys{
+	background-color:#2d3436;
+	color:#fff;
+}
+#hys a {
+	background:linear-gradient:(skyblue,red);
 }
 #last{
+	padding-bottom:30px;
+}
+#last1{
 	padding-top:30px;
+	padding-bottom:30px;
+}
+#last2{
+	padding-top:50px;
+}
+#message{
+	width:300px;
+}
+#last3 li  {
+	display: inline-block;
+	padding: 25px 20px 20px 25px;
+	text-align: center;
+	color:#fff;
+}
+#last3 li a{
+	color:white;
+}
+#last3 li a:hover{
+    background:gray;
+}
+#kuri a i {
+	padding:0px 5px 0px 0px;
+	color:#fff;
+}
+#payar{
+	background-color:black;
+}
+#kuriy a i {
+	padding:0px 5px 0px 5px;
+	color:#fff;
+}
+#kuriy a i:hover{
+	color:yellow;
+    transform:scale(1.3);
+}
+#kuri a i:hover{
+	color:yellow;
+	 transform:scale(1.3);
+}
+#huss{
+	color:#fff;
+}
+#huss a {
+	color:#fff;
+}
+#huss a:hover{
+	transform:translate(20px,0px);
+	color:gray;
 }
